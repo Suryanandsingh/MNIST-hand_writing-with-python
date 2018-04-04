@@ -1,5 +1,5 @@
 ## MNIST Handwritten Digit Recognition Problem
-Here, I solved this problem  with keras by 95.02%.
+Here, I solved this problem  with keras by 97%.
 
 And, 
 
